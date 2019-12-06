@@ -13,7 +13,7 @@ class App extends Component {
 			<div className="App">
 				<header className="header">
 					<img src={logo} className="header__logo" alt="logo" />
-					<h1 className="header__title">Welcome to Nova's code challenge!</h1>
+					<h1 className="header__title">Sample Credit Report Dashboard</h1>
 				</header>
 				<Dashboard />
 			</div>
