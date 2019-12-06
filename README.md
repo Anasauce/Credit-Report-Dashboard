@@ -1,16 +1,11 @@
-# Nova Front-End challenge
-
-Please implement a Nova dashboard to render credit report entries of applicants
+# Sample Credit Report Dashboard
+Please implement a dashboard to render credit report entries of applicants
 
 ## Deliverables
 
 - Render a list of reports
 - Add ability to archive reports
 - Add ability to load more reports
-
-## Submitting
-
-To submit, please share your solution via Google Drive (zipped up with node_modules folder removed). You will have a three day window to complete and return the assignment once it has been sent. The assignment usually takes candidates about three hours of coding to complete.
 
 ## Backend endpoints
 
